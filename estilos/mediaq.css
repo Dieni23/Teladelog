@@ -5,7 +5,8 @@
         background-image: linear-gradient(to top, blue, rgb(116, 116, 249) );
     }
     section#login{
-        width: 90vw;
+        width: 80vw;
+        width: 280px;
     }
     section#login > div#img{
         float: left;
@@ -25,6 +26,7 @@
     }
     section#login{
         width: 950px;
+        height: 350px;
     }
     section#login > div#img{
         float: right;
@@ -40,6 +42,7 @@
         font-size: 2em;
     }
     div#for > p{
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     }
 }
